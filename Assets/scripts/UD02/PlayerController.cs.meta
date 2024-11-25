@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b505465e59cb14bfd88cfaffd19a9049
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flowerPrefab: {fileID: 100000, guid: 37ff82026b5c849d590a812f765c2862, type: 3}
+  - flowerSpawnPoint: {fileID: 8627957387037765548, guid: a5cc30028c3f34f988e50e230796324f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

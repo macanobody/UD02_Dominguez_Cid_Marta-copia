@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{13313CF4-9291-C7F1-23BE-2DD492FEB61C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/UD02/Chicken.cs">
+    <Files>
+      <File FileName="Assets/scripts/UD02/Chicken.cs" Line="46" Column="9" />
+      <File FileName="Assets/scripts/UD02/PlayerController.cs" Line="3" Column="1" />
+      <File FileName="Assets/scripts/UD02/Flower.cs" />
+      <File FileName="Assets/scripts/UD02/Enemy.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UD02_Dominguez_Cid_Marta" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="UD02" expanded="True">
+                  <Node name="Chicken.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="062ee87e-fdaf-463d-8bb9-19d11e17080e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
